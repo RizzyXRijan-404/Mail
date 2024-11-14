@@ -8,6 +8,6 @@ if bit == '64bit':
  from Temp_Mail import main
 elif bit == '32bit':
  print('\033[1;37m[\033[92m×\033[1;37m]\033[0m \033[1;31m>\033[0m \033[1;37m32 BIT DETECTED..!')
- else():
+ else:
   print('\033[1;37m[\033[92m×\033[1;37m]\033[0m \033[1;31m>\033[0m \033[1;37m32 BIT NOT DETECTED..!')
 main()
