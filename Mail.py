@@ -10,7 +10,7 @@ time.sleep(2)
 bit = platform.architecture()[0]
 if bit == '64bit':
     print('\033[1;37m[\033[92m•\033[1;37m]\033[0m \033[1;31m>\033[0m \033[1;37m64 BIT DETECTED..!')
-    from Temp_Mail import main
+    time.sleep(2);from Temp_Mail import main
 elif bit == '32bit':
     print('\033[1;37m[\033[92m×\033[1;37m]\033[0m \033[1;31m>\033[0m \033[1;37m32 BIT DETECTED..!')
 else:
