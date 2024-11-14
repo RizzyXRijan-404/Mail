@@ -3,7 +3,7 @@ import time
 import platform
 
 os.system('xdg-open https://chat.whatsapp.com/GKCh3wB9KoU9oDuy0MsZ7v')
-print('\033[1;37m[\033[92m•\033[1;37m]\033[0m \033[1;31m>\033[0m \033[1;37m TOOL IS OPENING...!')
+print('\033[1;37m[\033[92m•\033[1;37m]\033[0m \033[1;31m>\033[0m \033[1;37mTOOL IS OPENING...!')
 time.sleep(2)
 
 
