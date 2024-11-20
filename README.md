@@ -4,14 +4,14 @@ ___ OPEN SOURCES by YounisXyz___</br>
 ![RizzyXRijan-404](https://komarev.com/ghpvc/?username=RizzyXRijan-404&color=blue)
 <a href="https://github.RizzyXRijan-404.com/"><img src="https://img.shields.io/github/followers/RizzyXRijan-404?label=followers&style=social"/></a>
 [![GitHub watch](https://img.shields.io/github/watchers/RizzyXRijan-404/FILE.svg?style=social&label=Watch)](https://GitHub.com/RizzyXRijan-404/FILE/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/RizzyXRijan-404/Mail.svg?style=social&label=Fork)](https://GitHub.com/RizzyXRijan-404/FILE/network/)
+[![GitHub forks](https://img.shields.io/github/forks/RizzyXRijan-404/FILE.svg?style=social&label=Fork)](https://GitHub.com/RizzyXRijan-404/FILE/network/)
 [![GitHub stars](https://img.shields.io/github/stars/YounisXyz/OPEN_CODE.svg?style=social&label=Star)](https://GitHub.com/RizzyXRijan-404/FILE/stargazers/)
 # MY SOCIAL MEDIA 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/YounisXyz) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/YounisXyz)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/xyzhackers)
-[![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/xyzhackers)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/younisxyz) 
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/RizzyXRijan-404) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/RizzyXRijan-404)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/rohit.delete7)
+[![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/rohit.delete7)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/rohiteyyy7) 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Younis.Xyz-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6282129391159)
-[![](https://img.shields.io/badge/YouTube-black?logo=YouTube&logoColor=black&labelColor=white)](https://www.youtube.com/@YounisXyz)
+[![](https://img.shields.io/badge/YouTube-black?logo=YouTube&logoColor=black&labelColor=white)](https://www.youtube.com/@Rizzzyyyffx)
 [![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://youtube.com/@MRTRICKERXYZ)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Dont+Forget+To+Follow+Me+On+GitHub!+)
