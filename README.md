@@ -11,7 +11,7 @@ ___ OPEN SOURCES by YounisXyz___</br>
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/rohit.delete7)
 [![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/rohit.delete7)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/rohiteyyy7) 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Younis.Xyz-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6282129391159)
-[![](https://img.shields.io/badge/YouTube-black?logo=YouTube&logoColor=black&labelColor=white)](https://www.youtube.com/@Rizzzyyyffx)
+[![](https://img.shields.io/badge/YouTube-black?logo=YouTube&logoColor=black&labelColor=white)](https://www.youtube.com/@Rizzyyyffx)
 [![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://youtube.com/@MRTRICKERXYZ)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Dont+Forget+To+Follow+Me+On+GitHub!+)
