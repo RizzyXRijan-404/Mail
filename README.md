@@ -4,7 +4,7 @@ rm -rf RxR
 git clone https://github.com/RizzyXRijan-404/Mail
 cd Mail
 python Mail.py
-
+```
 # GitHub 
 ![RizzyXRijan-404](https://komarev.com/ghpvc/?username=RizzyXRijan-404&color=blue)
 <a href="https://github.RizzyXRijan-404.com/"><img src="https://img.shields.io/github/followers/RizzyXRijan-404?label=followers&style=social"/></a>
